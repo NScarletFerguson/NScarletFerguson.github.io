@@ -1,3 +1,3 @@
-"Software Development | Website Development | Computer Science Engineer | Video Game Development"
+Software Development /\ Website Development \/ Computer Science Engineer /\ Video Game Development
 
 All this and more if you hire me :)
