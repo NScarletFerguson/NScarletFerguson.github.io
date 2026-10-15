@@ -2,7 +2,7 @@ This is where I will put all my various projects probably sectioned off with dro
 <details>
   <summary>Click to expand</summary>
 
-  {% include embed-audio.html src="/assets/audio/Boss_Rush.m4a" %}
+  {% include embed-audio.html src="/assets/audio/Boss_Rush.wav" %}
   This is the hidden content inside the collapsible block. 
 
 </details>
