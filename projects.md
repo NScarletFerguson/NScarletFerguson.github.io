@@ -1,8 +1,8 @@
 This is where I will put all my various projects probably sectioned off with drop downs?
 <details>
-  <summary>Click to expand</summary>
+  <summary>Music</summary>
 
   {% include embed-audio.html src="assets/audio/Boss_Rush.wav" %}
-  This is the hidden content inside the collapsible block. 
+   My demo soundtrack for a video game I'm making
 
 </details>
