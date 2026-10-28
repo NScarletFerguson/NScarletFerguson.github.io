@@ -1,3 +1,7 @@
 # NScarletFerguson.github.io
 
-is this the home page?
+My video game: Represent(WIP)
+<video controls width="100%">
+  <source src="{{ '/assets/videos/my-video.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
