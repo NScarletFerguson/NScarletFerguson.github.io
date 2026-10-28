@@ -15,7 +15,7 @@ This is where I will put all my various projects probably sectioned off with dro
 <details>
   <summary>Realm of the Divine Beasts</summary>
   Realm of the Divine Beasts is an expansive alternate ruleset to Dungeons & Dragons 5th Edition. It combines 5e, 3.5, and my own worldbuilding and takes of various mechanics. It is still a work in progress but the Handbook displayed here does provide a fully playable Tabletop Role-Playing Game (TTRPG).
-  <object data="{{ site.baseurl }}/assets/your-file.pdf" width="100%" height="600" type="application/pdf">
+  <object data="{{ site.baseurl }}/assets/docs/RotDB_Playable_Alpha_V0.5.2.pdf" width="100%" height="600" type="application/pdf">
     <p>Your browser does not support PDFs. <a href="{{ site.baseurl }}/assets/docs/RotDB_Playable_Alpha_V0.5.2.pdf">Download the PDF</a>.</p>
   </object>
 </details>
