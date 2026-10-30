@@ -1,4 +1,3 @@
-# NSFerguson Personal Website
 ## Currently working on my own Video Game: Represent(WIP)
 Soundtrack Demo:
 {% include embed-audio.html src="assets/audio/Boss_Rush.wav" %}
