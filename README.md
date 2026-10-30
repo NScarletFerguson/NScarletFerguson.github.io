@@ -1,4 +1,4 @@
-## Currently working on my own Video Game: Represent(WIP)
+### Currently working on my own Video Game: Represent(WIP)
 Soundtrack Demo:
 {% include embed-audio.html src="assets/audio/Boss_Rush.wav" %}
 Work In Progress Demo Level
