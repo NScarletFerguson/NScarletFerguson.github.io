@@ -9,4 +9,7 @@ Whenever something went wrong I would look through the crash reports and try and
 This part of why one of my favorite parts of programming is troubleshooting and my favorite application of programming is in art especially video games. 
 I've always enjoyed making art of various kinds, from music to visual to written and I extend that love of art to video games and programming.
 
-I studied Computer Science and Engineering at Lehigh University, which gave me lots of skills and experience that prepared me for a sucessful career in Software Development and Engineering. Outside of school I also have experience with IT Support, Technology Consultation, and even as an HR Assistant. I have proven myself to be a quick and effective learner of new skills in addition to the skills I've honed as a Computer Scientist, as shown by this very website that I coded myself. 
+I studied Computer Science and Engineering at Lehigh University, which gave me lots of skills and experience that prepared me for a sucessful career in Software Development and Engineering.
+Outside of school I also have experience with IT Support, Technology Consultation, and even as an HR Assistant.
+I have proven myself to be a quick and effective learner of new skills in addition to the skills I've honed as a Computer Scientist, as shown by this very website that I coded myself. 
+<!--Add resume once I'm done redoing-->
