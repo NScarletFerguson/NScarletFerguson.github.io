@@ -1,16 +1,14 @@
-
-<details>
-  <summary><h3>Music</h3></summary>
-   My demo soundtrack for a video game I'm making
-   {% include embed-audio.html src="assets/audio/Boss_Rush.wav" %}
-</details>
-
 <details>
   <summary><h3>Represent: The Video Game</h3></summary>
-  Represent(not the final name), is a 2D platform shooter with RPG elements and dystopian sci-fi setting.
+  Represent(not the final name), is a 2D platform shooter with RPG elements and dystopian sci-fi setting made in the Godot Engine.
   It is still in the very early stages of development, but I am slowly but surely working on a full demo level.
   Here is a mid-combat screenshot of the player shooting at an enemy in the recent build of the game.
   <img src="/assets/images/RepresentScreencap.png" alt="Screenshot from the Vija gayme">
+</details>
+
+<details>
+  <summary><h3>Summer Phone Blues</h3></summary>
+   A self-produced and self-published album of music I’ve composed from high school through college. Combining various different genres from classical to electronic. Most of the songs were worked on in whatever time I could find between classes or long car rides with family. The full album can be found on Youtube at this link. [Link to full album] (https://www.youtube.com/playlist?list=PLO9FWFVxrHA8)
 </details>
 
 <details>
