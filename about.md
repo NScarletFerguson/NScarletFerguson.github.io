@@ -12,4 +12,6 @@ I've always enjoyed making art of various kinds, from music to visual to written
 I studied Computer Science and Engineering at Lehigh University, which gave me lots of skills and experience that prepared me for a sucessful career in Software Development and Engineering.
 Outside of school I also have experience with IT Support, Technology Consultation, and even as an HR Assistant.
 I have proven myself to be a quick and effective learner of new skills in addition to the skills I've honed as a Computer Scientist, as shown by this very website that I coded myself. 
-<!--Add resume once I'm done redoing-->
+
+For more details on my experience, here is my Resume!
+<embed src="{{ site.baseurl }}/assets/docs/Resume_Scarlet_Ferguson_2026.pdf" width="100%" height="600px" type="application/pdf" />
