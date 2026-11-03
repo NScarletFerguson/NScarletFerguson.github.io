@@ -8,6 +8,7 @@
 
 <details>
   <summary><h3>Summer Phone Blues</h3></summary>
+  
   A self-produced and self-published album of music I’ve composed from high school through college. Combining various different genres from classical to electronic. Most of the songs were worked on in whatever time I could find between classes or long car rides with family. The full album can be found on Youtube at this link.
 
 
