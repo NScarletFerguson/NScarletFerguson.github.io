@@ -7,16 +7,16 @@
 </details>
 
 <details>
+  <summary><h3>Realm of the Divine Beasts</h3></summary>
+  Realm of the Divine Beasts is an expansive alternate ruleset to Dungeons & Dragons 5th Edition. It combines 5e, 3.5, and my own worldbuilding and takes on various mechanics. It is still a work in progress but the Handbook displayed here does provide a fully playable Tabletop Role-Playing Game (TTRPG).
+  <embed src="{{ site.baseurl }}/assets/docs/RotDB_Playable_Alpha_V0.5.2.pdf" width="100%" height="600px" type="application/pdf" />
+</details>
+
+<details>
   <summary><h3>Summer Phone Blues</h3></summary>
 
   <p>A self-produced and self-published album of music I’ve composed from high school through college. Combining various different genres from classical to electronic. Most of the songs were worked on in whatever time I could find between classes or long car rides with family. The full album can be found on Youtube at this link.</p>
   
   <p><a href="https://www.youtube.com/playlist?list=PLO9FWFVxrHA8" target="_blank">Link to Full Album</a></p>
 
-</details>
-
-<details>
-  <summary><h3>Realm of the Divine Beasts</h3></summary>
-  Realm of the Divine Beasts is an expansive alternate ruleset to Dungeons & Dragons 5th Edition. It combines 5e, 3.5, and my own worldbuilding and takes on various mechanics. It is still a work in progress but the Handbook displayed here does provide a fully playable Tabletop Role-Playing Game (TTRPG).
-  <embed src="{{ site.baseurl }}/assets/docs/RotDB_Playable_Alpha_V0.5.2.pdf" width="100%" height="600px" type="application/pdf" />
 </details>
