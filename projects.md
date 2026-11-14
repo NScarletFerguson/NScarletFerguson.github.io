@@ -19,6 +19,8 @@
   
   <p><a href="https://www.youtube.com/playlist?list=PLO9FWFVxrHA8" target="_blank">Link to Full Album</a></p>
 
+  <p><iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLO9FWFVxrHA8" frameborder="0" allowfullscreen></iframe></p>
+
   <p>{% include album-playlist.html playlist="/playlist?list=PLO9FWFVxrHA8" title="Summer Phone Blues" %}</p>
 
 </details>
