@@ -19,8 +19,7 @@
   
   <p><a href="https://www.youtube.com/playlist?list=PLO9FWFVxrHA8" target="_blank">Link to Full Album</a></p>
 
-  <p><iframe width="560" height="315" src="https://www.youtube.com/watch?v=nWvAJmzrBkw&list=PLO9FWFVxrHA8&index=1" frameborder="0" allowfullscreen></iframe></p>
+  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=5gBFi9cI2xkn8Bu6&amp;list=PLO9FWFVxrHA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></iframe></p>
 
-  <p>{% include album-playlist.html playlist="/watch?v=nWvAJmzrBkw&list=PLO9FWFVxrHA8&index=1" title="Summer Phone Blues" %}</p>
 
 </details>
