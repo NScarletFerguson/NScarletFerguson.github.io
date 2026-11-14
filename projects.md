@@ -19,7 +19,8 @@
   
   <p><a href="https://www.youtube.com/playlist?list=PLO9FWFVxrHA8" target="_blank">Link to Full Album</a></p>
 
-  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=5gBFi9cI2xkn8Bu6&amp;list=PLO9FWFVxrHA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=5gBFi9cI2xkn8Bu6&amp;list=PLO9FWFVxrHA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 </details>
