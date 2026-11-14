@@ -19,6 +19,6 @@
   
   <p><a href="https://www.youtube.com/playlist?list=PLO9FWFVxrHA8" target="_blank">Link to Full Album</a></p>
 
-  <p>{% include album-playlist.html playlist="PLO9FWFVxrHA8" title="Summer Phone Blues" %}</p>
+  <p>{% include album-playlist.html playlist="/playlist?list=PLO9FWFVxrHA8" title="Summer Phone Blues" %}</p>
 
 </details>
